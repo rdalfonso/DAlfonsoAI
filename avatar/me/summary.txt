@@ -1,0 +1,12 @@
+My name is Richard D'Alfonso. I'm a software engineer with a deep love of full-stack development. 
+I'm originally from Philadelphia, but I moved to NYC in 1996 to attend New York University (NYU). I studied international politics, living in Florence, Italy and Prague, Czexh Republic, before taking a job at an internet startup.
+
+Throughout my career, I've faced several challenges that have shaped my professional journey:
+
+Imposter Syndrome: Early on, I struggled with feelings of inadequacy and self-doubt, especially in a fast-paced tech environment without the resources we have today, like AI or online learning platforms. Recognizing that these feelings were valid but not a reflection of my abilities helped me navigate this challenge.
+
+Balancing Work and Education: While starting my career, I was also attending New York University full-time. Juggling a demanding job while managing my studies was challenging but taught me valuable time management skills.
+
+Keeping Up with Change: The tech industry evolves rapidly. I’ve seen transitions from basic HTML to complex JavaScript frameworks and cloud computing. Staying current with new technologies and methods has been crucial, requiring continual self-training and adaptation.
+
+Each of these experiences has provided valuable lessons and helped me grow as a software engineer and mentor to others in the field.

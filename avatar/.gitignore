@@ -1,0 +1,76 @@
+# -----------------------------
+# uv (Astral) / Python project
+# -----------------------------
+
+# uv build artifacts and environments
+.venv/
+.uv/
+__pypackages__/
+.venv.bak/
+.uv-cache/
+.uv-lock/
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and debug
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Local settings and environment
+.env
+.env.*
+!.env.example  # Keep a sample env template
+
+# macOS system files
+.DS_Store
+
+# VSCode / IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+*.ipynb_convert/
+
+# Build & distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+MANIFEST
+
+# Unit test / coverage
+.coverage
+htmlcov/
+.cache/
+.pytest_cache/
+.tox/
+.nox/
+.mypy_cache/
+.dmypy.json
+.pyre/
+.pytype/
+
+# Temporary data
+*.sqlite3
+tmp/
+temp/
+.cache/
+
+# Node-related (if using Gradio with frontend assets)
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+
+# Optional: OS & Editor junk
+Thumbs.db
+*.sublime-project
+*.sublime-workspace
