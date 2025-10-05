@@ -1,7 +1,7 @@
 from openai import OpenAI
 import os
-import base64
 import json
+import base64
 
 # Must match LM Studio model name
 model = "google/gemma-3n-e4b"  
